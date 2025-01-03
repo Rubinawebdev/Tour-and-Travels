@@ -1,4 +1,4 @@
-import React from "react";
+
 import ScrollToTop from "./Components/ScrollToTop";
 import NavBar from "./Components/NavBar";
 import Service from "./Components/Service";
